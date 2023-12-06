@@ -1,2 +1,4 @@
 # Sentiment-Driven-Media-Player-with-EEG-Simulation
-"SentimentDrivenMediaPlayer" is a versatile research tool designed as part of a study exploring the intersection of user interaction, sentiment analysis, and EEG data visualization.
+"SentimentDrivenMediaPlayer" is a versatile research tool designed as part of a study exploring the intersection of user interaction, sentiment analysis, and EEG data visualization. This Python-based application simulates an EEG headband's response to user interactions with a media player interface. Users can like, dislike, or leave comments on videos, and the program analyzes these actions to predict sentiment. It then visualizes simulated EEG frequency bands corresponding to the deduced emotional state. The aim is to reveal areas of emotional expression through user feedback, offering insights into the emotional impacts of multimedia content. This tool is ideal for researchers in neuroinformatics, human-computer interaction, and emotional analysis.
+
+In order to run the main code, first run the NN & Sentiment models, once get the modles in pkl format, go ahead with the Sentiment-Driven-Media-Player-with-EEG-Simulation code.
